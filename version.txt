@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 version 2.0 and fixes
+=======
+version 3.0
+>>>>>>> 4806de20b33eeeb6f6ca5906968c0293ff253272
